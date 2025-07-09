@@ -1,0 +1,7 @@
+*.pfx
+*.csv
+*.xlsx
+*.docx
+*.pdf
+*.log
+secrets/
