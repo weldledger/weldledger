@@ -20,7 +20,7 @@ Currently in private development.
 
 ---
 
-## 📬 Contact
+## Contact
 
-📧 jaime@weldledger.com  
-🌐 [weldledger.com](https://weldledger.com)
+jaime@weldledger.com  
+[weldledger.com](https://weldledger.com)
